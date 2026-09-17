@@ -1,0 +1,8 @@
+# Compatibility ranges; not a fully reproducible lockfile.
+pypdf>=5,<7
+Pillow>=11,<13
+faster-whisper>=1.1,<2
+sounddevice>=0.5,<1
+edge-tts>=7.2,<8
+ddgs>=9.5,<10
+moderngl>=5.12,<6

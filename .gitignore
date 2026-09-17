@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+*.dpapi
+theme-preview.png
+reference-frames.jpg
+core-render.png
