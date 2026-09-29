@@ -1,5 +1,10 @@
 # SCROXZ AI
 
+
+https://github.com/user-attachments/assets/760b43bb-3d33-4711-8185-5fabdde666ef
+
+
+
 **A multilingual Windows desktop assistant with synchronized speech and an interactive 3D interface.**
 
 SCROXZ combines streaming AI conversations, local microphone transcription, document retrieval, persistent memory, and user-approved desktop actions in a Python application.
