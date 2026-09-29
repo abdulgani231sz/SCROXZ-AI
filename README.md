@@ -159,8 +159,8 @@ The development version passed **129 automated tests** on Windows, covering stre
 
 Built by **[YOUR NAME]**, [one line about you, e.g. "a computer science student interested in AI applications and real-time systems"].
 
-- LinkedIn: [your-link]
-- Email: [your-email]
+- LinkedIn:(https://www.linkedin.com/in/abdul-gani-08sz/)
+- Email:abdulgani231sz@gmail.com
 - Portfolio: [your-link]
 
 ## License
